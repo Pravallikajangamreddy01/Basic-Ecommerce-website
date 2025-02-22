@@ -24,14 +24,19 @@ Razorpay API: Payment gateway integration.
 How to Use
 
 Sign Up/Login: Create an account or log in.
+
 Browse Products: View available products.
+
 Add to Cart: Add items to the cart.
+
 Checkout: Complete the purchase using Razorpay.
 
 Future Enhancements
 
 Backend integration for user and product management.
+
 Improved UI and responsiveness.
+
 Order tracking and history.
 
 License
