@@ -14,8 +14,11 @@ Checkout Process: Razorpay integration for secure payments.
 Technologies Used
 
 HTML: Structure of the website.
+
 CSS: Styling and layout.
+
 JavaScript: Dynamic behavior and functionality.
+
 Razorpay API: Payment gateway integration.
 
 How to Use
